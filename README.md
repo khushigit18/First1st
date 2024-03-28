@@ -1,3 +1,4 @@
 # First1st
 That's my First repository on GitHub.
-I'm Khushi.
+<br>
+<i>I'm Khushi.</i>
